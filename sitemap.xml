@@ -142,6 +142,12 @@
   </url>
   
   <url>
+    <loc>https://zjuvag.github.io/tags/visualization/</loc>
+    <lastmod>2019-01-02T15:46:02+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://zjuvag.github.io/authors/yafeng-lu/</loc>
     <lastmod>2019-01-02T15:46:02+08:00</lastmod>
     <priority>0</priority>
@@ -167,12 +173,6 @@
   
   <url>
     <loc>https://zjuvag.github.io/tags/uncertainty/</loc>
-    <lastmod>2019-01-02T15:46:02+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://zjuvag.github.io/tags/visualization/</loc>
     <lastmod>2019-01-02T15:46:02+08:00</lastmod>
     <priority>0</priority>
   </url>
@@ -225,6 +225,83 @@
   </url>
   
   <url>
+    <loc>https://zjuvag.github.io/publication/user-study/</loc>
+    <lastmod>2018-10-29T15:46:02+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/tags/evaluation/</loc>
+    <lastmod>2018-10-29T15:46:02+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/tags/geo-based-context/</loc>
+    <lastmod>2018-10-29T15:46:02+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/authors/jinhui-yu/</loc>
+    <lastmod>2018-10-29T15:46:02+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/tags/location-privacy/</loc>
+    <lastmod>2018-10-29T15:46:02+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/tags/periodic-trajectory/</loc>
+    <lastmod>2018-10-29T15:46:02+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/authors/tianlong-gu/</loc>
+    <lastmod>2018-10-29T15:46:02+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/authors/tianyi-lao/</loc>
+    <lastmod>2018-10-29T15:46:02+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/authors/wenlong-chen/</loc>
+    <lastmod>2018-10-29T15:46:02+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/authors/xiwen-cai/</loc>
+    <lastmod>2018-10-29T15:46:02+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/authors/xumeng-wang/</loc>
+    <lastmod>2018-10-29T15:46:02+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/authors/yingcai-wu/</loc>
+    <lastmod>2018-10-29T15:46:02+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/authors/and-wei-chen./</loc>
+    <lastmod>2018-10-29T15:46:02+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://zjuvag.github.io/talk/</loc>
     <lastmod>2018-10-25T09:36:20+08:00</lastmod>
   </url>
@@ -243,6 +320,59 @@
   <url>
     <loc>https://zjuvag.github.io/talk/2018vis-han-pan/</loc>
     <lastmod>2018-10-24T11:43:20+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/authors/chris-bryan/</loc>
+    <lastmod>2018-08-20T15:46:02+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/tags/graph-privacy/</loc>
+    <lastmod>2018-08-20T15:46:02+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/publication/graphprotector/</loc>
+    <lastmod>2018-08-20T15:46:02+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/authors/jia-kai-chou/</loc>
+    <lastmod>2018-08-20T15:46:02+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/tags/k-anonymity/</loc>
+    <lastmod>2018-08-20T15:46:02+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/tags/privacy-preservation/</loc>
+    <lastmod>2018-08-20T15:46:02+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/authors/rusheng-pan/</loc>
+    <lastmod>2018-08-20T15:46:02+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/tags/structural-features/</loc>
+    <lastmod>2018-08-20T15:46:02+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/authors/and-kwan-liu-ma./</loc>
+    <lastmod>2018-08-20T15:46:02+08:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -275,12 +405,6 @@
   </url>
   
   <url>
-    <loc>https://zjuvag.github.io/authors/tianlong-gu/</loc>
-    <lastmod>2018-08-02T15:46:02+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://zjuvag.github.io/tags/timeline/</loc>
     <lastmod>2018-08-02T15:46:02+08:00</lastmod>
     <priority>0</priority>
@@ -289,6 +413,153 @@
   <url>
     <loc>https://zjuvag.github.io/authors/and-liang-chang./</loc>
     <lastmod>2018-08-02T15:46:02+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/authors/deqing-li/</loc>
+    <lastmod>2018-06-01T08:00:00+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/publication/echarts/</loc>
+    <lastmod>2018-06-01T08:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/authors/honghui-mei/</loc>
+    <lastmod>2018-06-01T08:00:00+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/tags/information-visualization/</loc>
+    <lastmod>2018-06-01T08:00:00+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/authors/junting-wang/</loc>
+    <lastmod>2018-06-01T08:00:00+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/authors/ming-zu/</loc>
+    <lastmod>2018-06-01T08:00:00+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/authors/shuang-su/</loc>
+    <lastmod>2018-06-01T08:00:00+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/tags/visual-design/</loc>
+    <lastmod>2018-06-01T08:00:00+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/tags/web-based/</loc>
+    <lastmod>2018-06-01T08:00:00+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/authors/wenli-zhang/</loc>
+    <lastmod>2018-06-01T08:00:00+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/authors/yi-shen/</loc>
+    <lastmod>2018-06-01T08:00:00+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/tags/egocentric-relations/</loc>
+    <lastmod>2018-03-01T15:46:02+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/tags/heterogeneous-urban-data/</loc>
+    <lastmod>2018-03-01T15:46:02+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/authors/jing-xia/</loc>
+    <lastmod>2018-03-01T15:46:02+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/authors/jun-chen/</loc>
+    <lastmod>2018-03-01T15:46:02+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/tags/location-based/</loc>
+    <lastmod>2018-03-01T15:46:02+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/publication/relationlines/</loc>
+    <lastmod>2018-03-01T15:46:02+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/authors/tianlong-gu./</loc>
+    <lastmod>2018-03-01T15:46:02+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/authors/yi-wang/</loc>
+    <lastmod>2018-03-01T15:46:02+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/publication/utilityaware/</loc>
+    <lastmod>2017-08-29T15:46:02+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/tags/differential-privacy/</loc>
+    <lastmod>2017-08-29T15:46:02+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/tags/privacy-preservating-visualization/</loc>
+    <lastmod>2017-08-29T15:46:02+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/tags/syntactic-anonymity/</loc>
+    <lastmod>2017-08-29T15:46:02+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/authors/tianyi-lao-and-kwan-liu-ma./</loc>
+    <lastmod>2017-08-29T15:46:02+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/tags/utility-aware-anonymization/</loc>
+    <lastmod>2017-08-29T15:46:02+08:00</lastmod>
     <priority>0</priority>
   </url>
   
