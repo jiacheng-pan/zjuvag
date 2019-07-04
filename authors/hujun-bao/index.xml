@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hujun Bao on ZJU VAG</title>
+    <link>https://zjuvag.github.io/authors/hujun-bao/</link>
+    <description>Recent content in Hujun Bao on ZJU VAG</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Jun 2018 08:00:00 +0800</lastBuildDate>
+    
+	    <atom:link href="https://zjuvag.github.io/authors/hujun-bao/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>An Efficient Direct Volume Rendering Algorithm for Dichromats.</title>
+      <link>https://zjuvag.github.io/publication/dichromats/</link>
+      <pubDate>Fri, 01 Jun 2018 08:00:00 +0800</pubDate>
+      
+      <guid>https://zjuvag.github.io/publication/dichromats/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Image-Space Texture-Based Output-Coherent Surface Flow Visualization.</title>
+      <link>https://zjuvag.github.io/publication/lic-/</link>
+      <pubDate>Fri, 01 Jun 2018 08:00:00 +0800</pubDate>
+      
+      <guid>https://zjuvag.github.io/publication/lic-/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -84,11 +84,56 @@
     </item>
     
     <item>
+      <title>An Efficient Direct Volume Rendering Algorithm for Dichromats.</title>
+      <link>https://zjuvag.github.io/publication/dichromats/</link>
+      <pubDate>Fri, 01 Jun 2018 08:00:00 +0800</pubDate>
+      
+      <guid>https://zjuvag.github.io/publication/dichromats/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>ECharts: A Declarative Framework for Rapid Construction of Web-based Visualization.</title>
       <link>https://zjuvag.github.io/publication/echarts/</link>
       <pubDate>Fri, 01 Jun 2018 08:00:00 +0800</pubDate>
       
       <guid>https://zjuvag.github.io/publication/echarts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient Volume Exploration Using the Gaussian Mixture Model.</title>
+      <link>https://zjuvag.github.io/publication/gaussianmixture-/</link>
+      <pubDate>Fri, 01 Jun 2018 08:00:00 +0800</pubDate>
+      
+      <guid>https://zjuvag.github.io/publication/gaussianmixture-/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Image-Space Texture-Based Output-Coherent Surface Flow Visualization.</title>
+      <link>https://zjuvag.github.io/publication/lic-/</link>
+      <pubDate>Fri, 01 Jun 2018 08:00:00 +0800</pubDate>
+      
+      <guid>https://zjuvag.github.io/publication/lic-/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Perception-Based Transparency Optimization for Direct Volume Rendering.</title>
+      <link>https://zjuvag.github.io/publication/perception-based/</link>
+      <pubDate>Fri, 01 Jun 2018 08:00:00 +0800</pubDate>
+      
+      <guid>https://zjuvag.github.io/publication/perception-based/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RankExplorer: Visualization of Ranking Changes in Large Time Series Data.</title>
+      <link>https://zjuvag.github.io/publication/rankexplorer/</link>
+      <pubDate>Fri, 01 Jun 2018 08:00:00 +0800</pubDate>
+      
+      <guid>https://zjuvag.github.io/publication/rankexplorer/</guid>
       <description></description>
     </item>
     
