@@ -85,19 +85,19 @@
     
     <item>
       <title>Efficient Volume Exploration Using the Gaussian Mixture Model.</title>
-      <link>https://zjuvag.github.io/publication/gaussianmixture-/</link>
+      <link>https://zjuvag.github.io/publication/gaussianmixture/</link>
       <pubDate>Fri, 01 Jun 2018 08:00:00 +0800</pubDate>
       
-      <guid>https://zjuvag.github.io/publication/gaussianmixture-/</guid>
+      <guid>https://zjuvag.github.io/publication/gaussianmixture/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Image-Space Texture-Based Output-Coherent Surface Flow Visualization.</title>
-      <link>https://zjuvag.github.io/publication/lic-/</link>
+      <link>https://zjuvag.github.io/publication/lic/</link>
       <pubDate>Fri, 01 Jun 2018 08:00:00 +0800</pubDate>
       
-      <guid>https://zjuvag.github.io/publication/lic-/</guid>
+      <guid>https://zjuvag.github.io/publication/lic/</guid>
       <description></description>
     </item>
     
@@ -134,6 +134,51 @@
       <pubDate>Tue, 29 Aug 2017 15:46:02 +0800</pubDate>
       
       <guid>https://zjuvag.github.io/publication/utilityaware/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visualizing Rank Time Series of Wikipedia Top Viewed Pages.</title>
+      <link>https://zjuvag.github.io/publication/visualizing-rank-time-series-of-wikipedia-top-viewed-pages/</link>
+      <pubDate>Wed, 15 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://zjuvag.github.io/publication/visualizing-rank-time-series-of-wikipedia-top-viewed-pages/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visual Analysis of Cloud Computing Performance Using Behavioral Lines.</title>
+      <link>https://zjuvag.github.io/publication/visual-analysis-of-cloud-computing-performance-using-behavioral-lines/</link>
+      <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://zjuvag.github.io/publication/visual-analysis-of-cloud-computing-performance-using-behavioral-lines/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Big Data in Social Transportation.</title>
+      <link>https://zjuvag.github.io/publication/big-data-in-social-transportation/</link>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://zjuvag.github.io/publication/big-data-in-social-transportation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VAET: A Visual Analytics Approach for E-transactions Time-series.</title>
+      <link>https://zjuvag.github.io/publication/vaet/</link>
+      <pubDate>Thu, 06 Nov 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://zjuvag.github.io/publication/vaet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatic Shader Simplification using Surface Signal Approximation.</title>
+      <link>https://zjuvag.github.io/publication/automatic_shader/</link>
+      <pubDate>Sat, 01 Nov 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://zjuvag.github.io/publication/automatic_shader/</guid>
       <description></description>
     </item>
     

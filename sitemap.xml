@@ -132,6 +132,12 @@
   </url>
   
   <url>
+    <loc>https://zjuvag.github.io/tags/visualization/</loc>
+    <lastmod>2019-01-02T15:46:02+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://zjuvag.github.io/authors/yafeng-lu/</loc>
     <lastmod>2019-01-02T15:46:02+08:00</lastmod>
     <priority>0</priority>
@@ -157,12 +163,6 @@
   
   <url>
     <loc>https://zjuvag.github.io/tags/uncertainty/</loc>
-    <lastmod>2019-01-02T15:46:02+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://zjuvag.github.io/tags/visualization/</loc>
     <lastmod>2019-01-02T15:46:02+08:00</lastmod>
     <priority>0</priority>
   </url>
@@ -430,18 +430,12 @@
   </url>
   
   <url>
-    <loc>https://zjuvag.github.io/tags/direct-volume-rendering/</loc>
-    <lastmod>2018-06-01T08:00:00+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://zjuvag.github.io/publication/echarts/</loc>
     <lastmod>2018-06-01T08:00:00+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://zjuvag.github.io/publication/gaussianmixture-/</loc>
+    <loc>https://zjuvag.github.io/publication/gaussianmixture/</loc>
     <lastmod>2018-06-01T08:00:00+08:00</lastmod>
   </url>
   
@@ -494,7 +488,7 @@
   </url>
   
   <url>
-    <loc>https://zjuvag.github.io/publication/lic-/</loc>
+    <loc>https://zjuvag.github.io/publication/lic/</loc>
     <lastmod>2018-06-01T08:00:00+08:00</lastmod>
   </url>
   
@@ -665,6 +659,12 @@
   </url>
   
   <url>
+    <loc>https://zjuvag.github.io/tags/direct-volume-rendering/</loc>
+    <lastmod>2018-06-01T08:00:00+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://zjuvag.github.io/tags/image-enhancement/</loc>
     <lastmod>2018-06-01T08:00:00+08:00</lastmod>
     <priority>0</priority>
@@ -801,8 +801,492 @@
   </url>
   
   <url>
+    <loc>https://zjuvag.github.io/authors/cheryl-qian/</loc>
+    <lastmod>2017-03-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://zjuvag.github.io/authors/david-s.-ebert/</loc>
-    <lastmod>2009-06-29T17:20:04+08:00</lastmod>
+    <lastmod>2017-03-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/authors/victor-chen/</loc>
+    <lastmod>2017-03-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/publication/visualizing-rank-time-series-of-wikipedia-top-viewed-pages/</loc>
+    <lastmod>2017-03-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/authors/wei-chen./</loc>
+    <lastmod>2017-03-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/authors/yumeng-hou/</loc>
+    <lastmod>2017-03-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/tags/computer-graphics/</loc>
+    <lastmod>2017-03-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/tags/page-link/</loc>
+    <lastmod>2017-03-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/tags/page-view/</loc>
+    <lastmod>2017-03-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/tags/rank-time-series/</loc>
+    <lastmod>2017-03-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/authors/biao-zhu/</loc>
+    <lastmod>2016-02-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/authors/chris-muelder/</loc>
+    <lastmod>2016-02-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/tags/cloud-computing/</loc>
+    <lastmod>2016-02-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/authors/hongxin-zhang/</loc>
+    <lastmod>2016-02-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/authors/kwan-liu-ma./</loc>
+    <lastmod>2016-02-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/publication/visual-analysis-of-cloud-computing-performance-using-behavioral-lines/</loc>
+    <lastmod>2016-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/tags/multidimensional-data/</loc>
+    <lastmod>2016-02-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/tags/performance-visualization/</loc>
+    <lastmod>2016-02-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/tags/visual-analytics/</loc>
+    <lastmod>2016-02-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/publication/big-data-in-social-transportation/</loc>
+    <lastmod>2015-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/tags/big-data/</loc>
+    <lastmod>2015-12-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/authors/dayong-shen/</loc>
+    <lastmod>2015-12-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/authors/liuqin-yang./</loc>
+    <lastmod>2015-12-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/authors/pu-wang/</loc>
+    <lastmod>2015-12-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/authors/qingpeng-zhang/</loc>
+    <lastmod>2015-12-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/authors/songhang-chen/</loc>
+    <lastmod>2015-12-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/authors/xiao-wang/</loc>
+    <lastmod>2015-12-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/authors/xinhu-zheng/</loc>
+    <lastmod>2015-12-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/tags/crowdsourcing/</loc>
+    <lastmod>2015-12-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/tags/data-analytics/</loc>
+    <lastmod>2015-12-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/tags/intelligent-transportation-system/</loc>
+    <lastmod>2015-12-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/tags/social-transportation/</loc>
+    <lastmod>2015-12-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/publication_types/1/</loc>
+    <lastmod>2015-10-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/publication/a-visual-voting-framework-for-weather-forecast-calibration/</loc>
+    <lastmod>2015-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/authors/hongsen-liao/</loc>
+    <lastmod>2015-10-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/authors/huizhang/</loc>
+    <lastmod>2015-10-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/authors/li-chen/</loc>
+    <lastmod>2015-10-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/tags/weather-forecast/</loc>
+    <lastmod>2015-10-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/tags/analog-method/</loc>
+    <lastmod>2015-10-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/tags/calibration/</loc>
+    <lastmod>2015-10-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/tags/majority-voting/</loc>
+    <lastmod>2015-10-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/publication/visual_reasoning/</loc>
+    <lastmod>2015-03-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/publication/boundaryseer/</loc>
+    <lastmod>2015-03-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/tags/data-visualization/</loc>
+    <lastmod>2015-03-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/authors/eduard-groeller/</loc>
+    <lastmod>2015-03-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/authors/fei-wang/</loc>
+    <lastmod>2015-03-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/tags/global-positioning-system/</loc>
+    <lastmod>2015-03-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/authors/han-hong/</loc>
+    <lastmod>2015-03-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/tags/heating/</loc>
+    <lastmod>2015-03-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/authors/hujun-bao./</loc>
+    <lastmod>2015-03-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/tags/indexes/</loc>
+    <lastmod>2015-03-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/authors/lionei-ni./</loc>
+    <lastmod>2015-03-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/authors/long-wang/</loc>
+    <lastmod>2015-03-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/tags/market-research/</loc>
+    <lastmod>2015-03-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/tags/power-system-stability/</loc>
+    <lastmod>2015-03-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/tags/roads/</loc>
+    <lastmod>2015-03-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/authors/ronghua-liang/</loc>
+    <lastmod>2015-03-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/tags/stability-analysis/</loc>
+    <lastmod>2015-03-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/authors/tianyu-gu/</loc>
+    <lastmod>2015-03-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/tags/topology/</loc>
+    <lastmod>2015-03-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/tags/trajectory/</loc>
+    <lastmod>2015-03-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/authors/wenchao-wu/</loc>
+    <lastmod>2015-03-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/authors/ye-zhao/</loc>
+    <lastmod>2015-03-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/authors/yixian-zheng/</loc>
+    <lastmod>2015-03-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/authors/cong-xie/</loc>
+    <lastmod>2014-11-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/tags/decision-trees/</loc>
+    <lastmod>2014-11-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/tags/feature-extraction/</loc>
+    <lastmod>2014-11-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/authors/jing-yang./</loc>
+    <lastmod>2014-11-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/tags/probabilistic-logic/</loc>
+    <lastmod>2014-11-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/authors/scott-barlowe/</loc>
+    <lastmod>2014-11-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/tags/time-series-analysis/</loc>
+    <lastmod>2014-11-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/publication/vaet/</loc>
+    <lastmod>2014-11-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/authors/xinxin-hunag/</loc>
+    <lastmod>2014-11-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/authors/yueqi-hu/</loc>
+    <lastmod>2014-11-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/publication/automatic_shader/</loc>
+    <lastmod>2014-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/authors/karla-bala/</loc>
+    <lastmod>2014-11-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/authors/rui-wang/</loc>
+    <lastmod>2014-11-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/tags/tgpu-shader/</loc>
+    <lastmod>2014-11-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/authors/xianjin-yang/</loc>
+    <lastmod>2014-11-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/authors/yazhen-yuan/</loc>
+    <lastmod>2014-11-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/tags/real-time-rendering/</loc>
+    <lastmod>2014-11-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/tags/shader-simplification/</loc>
+    <lastmod>2014-11-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/tags/surface-signal-approximation/</loc>
+    <lastmod>2014-11-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

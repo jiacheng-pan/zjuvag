@@ -1,139 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Wei Chen on ZJU VAG</title>
-    <link>https://zjuvag.github.io/authors/wei-chen/</link>
-    <description>Recent content in Wei Chen on ZJU VAG</description>
+    <title>Wei Chen. on ZJU VAG</title>
+    <link>https://zjuvag.github.io/authors/wei-chen./</link>
+    <description>Recent content in Wei Chen. on ZJU VAG</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 11 Mar 2019 17:20:04 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 15 Mar 2017 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://zjuvag.github.io/authors/wei-chen/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://zjuvag.github.io/authors/wei-chen./index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>location2vec: a situation-aware representation for visual exploration of urban locations</title>
-      <link>https://zjuvag.github.io/publication/location2vec/</link>
-      <pubDate>Mon, 11 Mar 2019 17:20:04 +0800</pubDate>
+      <title>Visualizing Rank Time Series of Wikipedia Top Viewed Pages.</title>
+      <link>https://zjuvag.github.io/publication/visualizing-rank-time-series-of-wikipedia-top-viewed-pages/</link>
+      <pubDate>Wed, 15 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://zjuvag.github.io/publication/location2vec/</guid>
+      <guid>https://zjuvag.github.io/publication/visualizing-rank-time-series-of-wikipedia-top-viewed-pages/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Exploring the Sensitivity of Choropleths under Attribute Uncertainty.</title>
-      <link>https://zjuvag.github.io/publication/geouncertainty/</link>
-      <pubDate>Wed, 02 Jan 2019 15:46:02 +0800</pubDate>
+      <title>A Visual Voting Framework for Weather Forecast Calibration.</title>
+      <link>https://zjuvag.github.io/publication/a-visual-voting-framework-for-weather-forecast-calibration/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://zjuvag.github.io/publication/geouncertainty/</guid>
+      <guid>https://zjuvag.github.io/publication/a-visual-voting-framework-for-weather-forecast-calibration/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>VAUD: A visual analysis approach for exploring spatio-temporal urban data.</title>
-      <link>https://zjuvag.github.io/publication/vaud/</link>
-      <pubDate>Fri, 02 Nov 2018 15:46:02 +0800</pubDate>
+      <title>Automatic Shader Simplification using Surface Signal Approximation.</title>
+      <link>https://zjuvag.github.io/publication/automatic_shader/</link>
+      <pubDate>Sat, 01 Nov 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://zjuvag.github.io/publication/vaud/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>GraphProtector: A Visual Interface for Employing and Assessing Multiple Privacy Preserving Graph Algorithms.</title>
-      <link>https://zjuvag.github.io/publication/graphprotector/</link>
-      <pubDate>Mon, 20 Aug 2018 15:46:02 +0800</pubDate>
-      
-      <guid>https://zjuvag.github.io/publication/graphprotector/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Structuring Mobility Transition With an Adaptive Graph Representation.</title>
-      <link>https://zjuvag.github.io/publication/amtg/</link>
-      <pubDate>Thu, 02 Aug 2018 15:46:02 +0800</pubDate>
-      
-      <guid>https://zjuvag.github.io/publication/amtg/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>An Efficient Direct Volume Rendering Algorithm for Dichromats.</title>
-      <link>https://zjuvag.github.io/publication/dichromats/</link>
-      <pubDate>Fri, 01 Jun 2018 08:00:00 +0800</pubDate>
-      
-      <guid>https://zjuvag.github.io/publication/dichromats/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ECharts: A Declarative Framework for Rapid Construction of Web-based Visualization.</title>
-      <link>https://zjuvag.github.io/publication/echarts/</link>
-      <pubDate>Fri, 01 Jun 2018 08:00:00 +0800</pubDate>
-      
-      <guid>https://zjuvag.github.io/publication/echarts/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Efficient Volume Exploration Using the Gaussian Mixture Model.</title>
-      <link>https://zjuvag.github.io/publication/gaussianmixture-/</link>
-      <pubDate>Fri, 01 Jun 2018 08:00:00 +0800</pubDate>
-      
-      <guid>https://zjuvag.github.io/publication/gaussianmixture-/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Image-Space Texture-Based Output-Coherent Surface Flow Visualization.</title>
-      <link>https://zjuvag.github.io/publication/lic-/</link>
-      <pubDate>Fri, 01 Jun 2018 08:00:00 +0800</pubDate>
-      
-      <guid>https://zjuvag.github.io/publication/lic-/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Perception-Based Transparency Optimization for Direct Volume Rendering.</title>
-      <link>https://zjuvag.github.io/publication/perception-based/</link>
-      <pubDate>Fri, 01 Jun 2018 08:00:00 +0800</pubDate>
-      
-      <guid>https://zjuvag.github.io/publication/perception-based/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>RankExplorer: Visualization of Ranking Changes in Large Time Series Data.</title>
-      <link>https://zjuvag.github.io/publication/rankexplorer/</link>
-      <pubDate>Fri, 01 Jun 2018 08:00:00 +0800</pubDate>
-      
-      <guid>https://zjuvag.github.io/publication/rankexplorer/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Relationlines: Visual Reasoning of Egocentric Relations from Heterogeneous Urban Data</title>
-      <link>https://zjuvag.github.io/publication/relationlines/</link>
-      <pubDate>Thu, 01 Mar 2018 15:46:02 +0800</pubDate>
-      
-      <guid>https://zjuvag.github.io/publication/relationlines/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Utility-aware Visual Approach for Anonymizing Multi-attribute Tabular Data.</title>
-      <link>https://zjuvag.github.io/publication/utilityaware/</link>
-      <pubDate>Tue, 29 Aug 2017 15:46:02 +0800</pubDate>
-      
-      <guid>https://zjuvag.github.io/publication/utilityaware/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Volume Illustration of Muscle from Diffusion Tensor Images.</title>
-      <link>https://zjuvag.github.io/publication/vimdti/</link>
-      <pubDate>Mon, 29 Jun 2009 17:20:04 +0800</pubDate>
-      
-      <guid>https://zjuvag.github.io/publication/vimdti/</guid>
+      <guid>https://zjuvag.github.io/publication/automatic_shader/</guid>
       <description></description>
     </item>
     
