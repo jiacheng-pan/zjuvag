@@ -21,11 +21,29 @@
     </item>
     
     <item>
+      <title>Urban Structure Accessibility Modeling and Visualization for Joint Spatiotemporal Constraints.</title>
+      <link>https://zjuvag.github.io/publication/accessibility_modeling/</link>
+      <pubDate>Wed, 16 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://zjuvag.github.io/publication/accessibility_modeling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Exploring the Sensitivity of Choropleths under Attribute Uncertainty.</title>
       <link>https://zjuvag.github.io/publication/geouncertainty/</link>
       <pubDate>Wed, 02 Jan 2019 15:46:02 +0800</pubDate>
       
       <guid>https://zjuvag.github.io/publication/geouncertainty/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semantics-Space-Time Cube: A Conceptual Framework for Systematic Analysis of Texts in Space and Time.</title>
+      <link>https://zjuvag.github.io/publication/semantics_cube/</link>
+      <pubDate>Tue, 20 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://zjuvag.github.io/publication/semantics_cube/</guid>
       <description></description>
     </item>
     
@@ -48,11 +66,29 @@
     </item>
     
     <item>
+      <title>ScatterNet: A Deep Subjective Similarity Model for Visual Analysis of Scatterplots.</title>
+      <link>https://zjuvag.github.io/publication/scatternet/</link>
+      <pubDate>Fri, 12 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://zjuvag.github.io/publication/scatternet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>GraphProtector: A Visual Interface for Employing and Assessing Multiple Privacy Preserving Graph Algorithms.</title>
       <link>https://zjuvag.github.io/publication/graphprotector/</link>
       <pubDate>Mon, 20 Aug 2018 15:46:02 +0800</pubDate>
       
       <guid>https://zjuvag.github.io/publication/graphprotector/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ForVizor: Visualizing Spatio-Temporal Team Formations in Soccer.</title>
+      <link>https://zjuvag.github.io/publication/forvizor/</link>
+      <pubDate>Mon, 20 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://zjuvag.github.io/publication/forvizor/</guid>
       <description></description>
     </item>
     
@@ -179,6 +215,15 @@
       <pubDate>Sat, 01 Nov 2014 00:00:00 +0000</pubDate>
       
       <guid>https://zjuvag.github.io/publication/automatic_shader/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Novel Interface for Interactive Exploration of DTI Fibers.</title>
+      <link>https://zjuvag.github.io/publication/dti/</link>
+      <pubDate>Fri, 23 Oct 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://zjuvag.github.io/publication/dti/</guid>
       <description></description>
     </item>
     
