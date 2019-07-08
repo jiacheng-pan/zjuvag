@@ -6,10 +6,28 @@
     <description>Recent content in Tags on ZJU VAG</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 11 Mar 2019 17:20:04 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 02 Apr 2019 15:46:02 +0800</lastBuildDate>
     
 	    <atom:link href="https://zjuvag.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Generative Adversarial Networks</title>
+      <link>https://zjuvag.github.io/tags/generative-adversarial-networks/</link>
+      <pubDate>Tue, 02 Apr 2019 15:46:02 +0800</pubDate>
+      
+      <guid>https://zjuvag.github.io/tags/generative-adversarial-networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Text-to-Image Synthesis</title>
+      <link>https://zjuvag.github.io/tags/text-to-image-synthesis/</link>
+      <pubDate>Tue, 02 Apr 2019 15:46:02 +0800</pubDate>
+      
+      <guid>https://zjuvag.github.io/tags/text-to-image-synthesis/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Human mobility</title>
@@ -93,6 +111,15 @@
     </item>
     
     <item>
+      <title>Geospatial analysis</title>
+      <link>https://zjuvag.github.io/tags/geospatial-analysis/</link>
+      <pubDate>Wed, 02 Jan 2019 15:46:02 +0800</pubDate>
+      
+      <guid>https://zjuvag.github.io/tags/geospatial-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Visualization</title>
       <link>https://zjuvag.github.io/tags/visualization/</link>
       <pubDate>Wed, 02 Jan 2019 15:46:02 +0800</pubDate>
@@ -107,15 +134,6 @@
       <pubDate>Wed, 02 Jan 2019 15:46:02 +0800</pubDate>
       
       <guid>https://zjuvag.github.io/tags/choropleth/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>geospatial analysis</title>
-      <link>https://zjuvag.github.io/tags/geospatial-analysis/</link>
-      <pubDate>Wed, 02 Jan 2019 15:46:02 +0800</pubDate>
-      
-      <guid>https://zjuvag.github.io/tags/geospatial-analysis/</guid>
       <description></description>
     </item>
     
@@ -282,6 +300,51 @@
     </item>
     
     <item>
+      <title>Clustering algorithms</title>
+      <link>https://zjuvag.github.io/tags/clustering-algorithms/</link>
+      <pubDate>Mon, 20 Aug 2018 15:46:02 +0800</pubDate>
+      
+      <guid>https://zjuvag.github.io/tags/clustering-algorithms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Clutter</title>
+      <link>https://zjuvag.github.io/tags/clutter/</link>
+      <pubDate>Mon, 20 Aug 2018 15:46:02 +0800</pubDate>
+      
+      <guid>https://zjuvag.github.io/tags/clutter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Correlation</title>
+      <link>https://zjuvag.github.io/tags/correlation/</link>
+      <pubDate>Mon, 20 Aug 2018 15:46:02 +0800</pubDate>
+      
+      <guid>https://zjuvag.github.io/tags/correlation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data visualization</title>
+      <link>https://zjuvag.github.io/tags/data-visualization/</link>
+      <pubDate>Mon, 20 Aug 2018 15:46:02 +0800</pubDate>
+      
+      <guid>https://zjuvag.github.io/tags/data-visualization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Encoding</title>
+      <link>https://zjuvag.github.io/tags/encoding/</link>
+      <pubDate>Mon, 20 Aug 2018 15:46:02 +0800</pubDate>
+      
+      <guid>https://zjuvag.github.io/tags/encoding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Graph privacy</title>
       <link>https://zjuvag.github.io/tags/graph-privacy/</link>
       <pubDate>Mon, 20 Aug 2018 15:46:02 +0800</pubDate>
@@ -300,6 +363,24 @@
     </item>
     
     <item>
+      <title>Mobile handsets</title>
+      <link>https://zjuvag.github.io/tags/mobile-handsets/</link>
+      <pubDate>Mon, 20 Aug 2018 15:46:02 +0800</pubDate>
+      
+      <guid>https://zjuvag.github.io/tags/mobile-handsets/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Principal component analysis</title>
+      <link>https://zjuvag.github.io/tags/principal-component-analysis/</link>
+      <pubDate>Mon, 20 Aug 2018 15:46:02 +0800</pubDate>
+      
+      <guid>https://zjuvag.github.io/tags/principal-component-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Privacy Preservation</title>
       <link>https://zjuvag.github.io/tags/privacy-preservation/</link>
       <pubDate>Mon, 20 Aug 2018 15:46:02 +0800</pubDate>
@@ -309,11 +390,29 @@
     </item>
     
     <item>
+      <title>Semantics</title>
+      <link>https://zjuvag.github.io/tags/semantics/</link>
+      <pubDate>Mon, 20 Aug 2018 15:46:02 +0800</pubDate>
+      
+      <guid>https://zjuvag.github.io/tags/semantics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Structural Features</title>
       <link>https://zjuvag.github.io/tags/structural-features/</link>
       <pubDate>Mon, 20 Aug 2018 15:46:02 +0800</pubDate>
       
       <guid>https://zjuvag.github.io/tags/structural-features/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Task analysis</title>
+      <link>https://zjuvag.github.io/tags/task-analysis/</link>
+      <pubDate>Mon, 20 Aug 2018 15:46:02 +0800</pubDate>
+      
+      <guid>https://zjuvag.github.io/tags/task-analysis/</guid>
       <description></description>
     </item>
     
@@ -480,15 +579,6 @@
     </item>
     
     <item>
-      <title>Volume classification</title>
-      <link>https://zjuvag.github.io/tags/volume-classification/</link>
-      <pubDate>Fri, 01 Jun 2018 08:00:00 +0800</pubDate>
-      
-      <guid>https://zjuvag.github.io/tags/volume-classification/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Web-based</title>
       <link>https://zjuvag.github.io/tags/web-based/</link>
       <pubDate>Fri, 01 Jun 2018 08:00:00 +0800</pubDate>
@@ -579,11 +669,56 @@
     </item>
     
     <item>
+      <title>volume classification</title>
+      <link>https://zjuvag.github.io/tags/volume-classification/</link>
+      <pubDate>Fri, 01 Jun 2018 08:00:00 +0800</pubDate>
+      
+      <guid>https://zjuvag.github.io/tags/volume-classification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>volume rendering</title>
       <link>https://zjuvag.github.io/tags/volume-rendering/</link>
       <pubDate>Fri, 01 Jun 2018 08:00:00 +0800</pubDate>
       
       <guid>https://zjuvag.github.io/tags/volume-rendering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Information Theory</title>
+      <link>https://zjuvag.github.io/tags/information-theory/</link>
+      <pubDate>Fri, 20 Apr 2018 15:46:02 +0800</pubDate>
+      
+      <guid>https://zjuvag.github.io/tags/information-theory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multivariate time-series</title>
+      <link>https://zjuvag.github.io/tags/multivariate-time-series/</link>
+      <pubDate>Fri, 20 Apr 2018 15:46:02 +0800</pubDate>
+      
+      <guid>https://zjuvag.github.io/tags/multivariate-time-series/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sensor</title>
+      <link>https://zjuvag.github.io/tags/sensor/</link>
+      <pubDate>Fri, 20 Apr 2018 15:46:02 +0800</pubDate>
+      
+      <guid>https://zjuvag.github.io/tags/sensor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transfer Entropy</title>
+      <link>https://zjuvag.github.io/tags/transfer-entropy/</link>
+      <pubDate>Fri, 20 Apr 2018 15:46:02 +0800</pubDate>
+      
+      <guid>https://zjuvag.github.io/tags/transfer-entropy/</guid>
       <description></description>
     </item>
     
@@ -791,15 +926,6 @@
       <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
       
       <guid>https://zjuvag.github.io/tags/majority-voting/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Data visualization</title>
-      <link>https://zjuvag.github.io/tags/data-visualization/</link>
-      <pubDate>Mon, 16 Mar 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://zjuvag.github.io/tags/data-visualization/</guid>
       <description></description>
     </item>
     

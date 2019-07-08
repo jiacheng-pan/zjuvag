@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>geospatial analysis on ZJU VAG</title>
+    <title>Geospatial analysis on ZJU VAG</title>
     <link>https://zjuvag.github.io/tags/geospatial-analysis/</link>
-    <description>Recent content in geospatial analysis on ZJU VAG</description>
+    <description>Recent content in Geospatial analysis on ZJU VAG</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 02 Jan 2019 15:46:02 +0800</lastBuildDate>
@@ -17,6 +17,15 @@
       <pubDate>Wed, 02 Jan 2019 15:46:02 +0800</pubDate>
       
       <guid>https://zjuvag.github.io/publication/geouncertainty/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visual Abstraction of Large Scale Geospatial Origin-Destination Movement Data.</title>
+      <link>https://zjuvag.github.io/publication/odflow/</link>
+      <pubDate>Mon, 20 Aug 2018 15:46:02 +0800</pubDate>
+      
+      <guid>https://zjuvag.github.io/publication/odflow/</guid>
       <description></description>
     </item>
     
