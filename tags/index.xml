@@ -111,15 +111,6 @@
     </item>
     
     <item>
-      <title>Geospatial analysis</title>
-      <link>https://zjuvag.github.io/tags/geospatial-analysis/</link>
-      <pubDate>Wed, 02 Jan 2019 15:46:02 +0800</pubDate>
-      
-      <guid>https://zjuvag.github.io/tags/geospatial-analysis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Visualization</title>
       <link>https://zjuvag.github.io/tags/visualization/</link>
       <pubDate>Wed, 02 Jan 2019 15:46:02 +0800</pubDate>
@@ -134,6 +125,15 @@
       <pubDate>Wed, 02 Jan 2019 15:46:02 +0800</pubDate>
       
       <guid>https://zjuvag.github.io/tags/choropleth/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>geospatial analysis</title>
+      <link>https://zjuvag.github.io/tags/geospatial-analysis/</link>
+      <pubDate>Wed, 02 Jan 2019 15:46:02 +0800</pubDate>
+      
+      <guid>https://zjuvag.github.io/tags/geospatial-analysis/</guid>
       <description></description>
     </item>
     
@@ -273,20 +273,20 @@
     </item>
     
     <item>
-      <title>Scatterplot</title>
-      <link>https://zjuvag.github.io/tags/scatterplot/</link>
-      <pubDate>Fri, 12 Oct 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://zjuvag.github.io/tags/scatterplot/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>deep learning</title>
       <link>https://zjuvag.github.io/tags/deep-learning/</link>
       <pubDate>Fri, 12 Oct 2018 00:00:00 +0000</pubDate>
       
       <guid>https://zjuvag.github.io/tags/deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>scatterplot</title>
+      <link>https://zjuvag.github.io/tags/scatterplot/</link>
+      <pubDate>Fri, 12 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://zjuvag.github.io/tags/scatterplot/</guid>
       <description></description>
     </item>
     
@@ -417,11 +417,74 @@
     </item>
     
     <item>
+      <title>Embedding</title>
+      <link>https://zjuvag.github.io/tags/embedding/</link>
+      <pubDate>Mon, 20 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://zjuvag.github.io/tags/embedding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploration</title>
+      <link>https://zjuvag.github.io/tags/exploration/</link>
+      <pubDate>Mon, 20 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://zjuvag.github.io/tags/exploration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Graph</title>
+      <link>https://zjuvag.github.io/tags/graph/</link>
+      <pubDate>Mon, 20 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://zjuvag.github.io/tags/graph/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Navigation</title>
+      <link>https://zjuvag.github.io/tags/navigation/</link>
+      <pubDate>Mon, 20 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://zjuvag.github.io/tags/navigation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Network</title>
+      <link>https://zjuvag.github.io/tags/network/</link>
+      <pubDate>Mon, 20 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://zjuvag.github.io/tags/network/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Search</title>
+      <link>https://zjuvag.github.io/tags/search/</link>
+      <pubDate>Mon, 20 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://zjuvag.github.io/tags/search/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Soccer data</title>
       <link>https://zjuvag.github.io/tags/soccer-data/</link>
       <pubDate>Mon, 20 Aug 2018 00:00:00 +0000</pubDate>
       
       <guid>https://zjuvag.github.io/tags/soccer-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Structure</title>
+      <link>https://zjuvag.github.io/tags/structure/</link>
+      <pubDate>Mon, 20 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://zjuvag.github.io/tags/structure/</guid>
       <description></description>
     </item>
     
@@ -822,6 +885,78 @@
     </item>
     
     <item>
+      <title>Game</title>
+      <link>https://zjuvag.github.io/tags/game/</link>
+      <pubDate>Tue, 27 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://zjuvag.github.io/tags/game/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trajectory</title>
+      <link>https://zjuvag.github.io/tags/trajectory/</link>
+      <pubDate>Tue, 27 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://zjuvag.github.io/tags/trajectory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Video</title>
+      <link>https://zjuvag.github.io/tags/video/</link>
+      <pubDate>Tue, 27 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://zjuvag.github.io/tags/video/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Question</title>
+      <link>https://zjuvag.github.io/tags/question/</link>
+      <pubDate>Thu, 25 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://zjuvag.github.io/tags/question/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semantic</title>
+      <link>https://zjuvag.github.io/tags/semantic/</link>
+      <pubDate>Thu, 25 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://zjuvag.github.io/tags/semantic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Taxi</title>
+      <link>https://zjuvag.github.io/tags/taxi/</link>
+      <pubDate>Thu, 25 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://zjuvag.github.io/tags/taxi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transportation</title>
+      <link>https://zjuvag.github.io/tags/transportation/</link>
+      <pubDate>Thu, 25 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://zjuvag.github.io/tags/transportation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Urban</title>
+      <link>https://zjuvag.github.io/tags/urban/</link>
+      <pubDate>Thu, 25 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://zjuvag.github.io/tags/urban/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Cloud computing</title>
       <link>https://zjuvag.github.io/tags/cloud-computing/</link>
       <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
@@ -1002,15 +1137,6 @@
     </item>
     
     <item>
-      <title>Trajectory</title>
-      <link>https://zjuvag.github.io/tags/trajectory/</link>
-      <pubDate>Mon, 16 Mar 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://zjuvag.github.io/tags/trajectory/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Decision trees</title>
       <link>https://zjuvag.github.io/tags/decision-trees/</link>
       <pubDate>Thu, 06 Nov 2014 00:00:00 +0000</pubDate>
@@ -1083,6 +1209,15 @@
     </item>
     
     <item>
+      <title>Laplacian</title>
+      <link>https://zjuvag.github.io/tags/laplacian/</link>
+      <pubDate>Thu, 23 Sep 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://zjuvag.github.io/tags/laplacian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Diffusion Tensor Imaging</title>
       <link>https://zjuvag.github.io/tags/diffusion-tensor-imaging/</link>
       <pubDate>Fri, 23 Oct 2009 00:00:00 +0000</pubDate>
@@ -1151,6 +1286,141 @@
       <pubDate>Mon, 29 Jun 2009 17:20:04 +0800</pubDate>
       
       <guid>https://zjuvag.github.io/tags/solid-texture-synthesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cell Phone Data</title>
+      <link>https://zjuvag.github.io/tags/cell-phone-data/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zjuvag.github.io/tags/cell-phone-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data abstraction</title>
+      <link>https://zjuvag.github.io/tags/data-abstraction/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zjuvag.github.io/tags/data-abstraction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High-dimensional data</title>
+      <link>https://zjuvag.github.io/tags/high-dimensional-data/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zjuvag.github.io/tags/high-dimensional-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Population Mobility Pattern</title>
+      <link>https://zjuvag.github.io/tags/population-mobility-pattern/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zjuvag.github.io/tags/population-mobility-pattern/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visual Query</title>
+      <link>https://zjuvag.github.io/tags/visual-query/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zjuvag.github.io/tags/visual-query/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>glyph visualization</title>
+      <link>https://zjuvag.github.io/tags/glyph-visualization/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zjuvag.github.io/tags/glyph-visualization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>graphical user interfaces</title>
+      <link>https://zjuvag.github.io/tags/graphical-user-interfaces/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zjuvag.github.io/tags/graphical-user-interfaces/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>interactive systems</title>
+      <link>https://zjuvag.github.io/tags/interactive-systems/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zjuvag.github.io/tags/interactive-systems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>kernel density estimation</title>
+      <link>https://zjuvag.github.io/tags/kernel-density-estimation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zjuvag.github.io/tags/kernel-density-estimation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>low-dimensional structure</title>
+      <link>https://zjuvag.github.io/tags/low-dimensional-structure/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zjuvag.github.io/tags/low-dimensional-structure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>manifold</title>
+      <link>https://zjuvag.github.io/tags/manifold/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zjuvag.github.io/tags/manifold/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>multilabel optimization</title>
+      <link>https://zjuvag.github.io/tags/multilabel-optimization/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zjuvag.github.io/tags/multilabel-optimization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>subspace</title>
+      <link>https://zjuvag.github.io/tags/subspace/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zjuvag.github.io/tags/subspace/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>temporal volume rendering</title>
+      <link>https://zjuvag.github.io/tags/temporal-volume-rendering/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zjuvag.github.io/tags/temporal-volume-rendering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>transfer function design</title>
+      <link>https://zjuvag.github.io/tags/transfer-function-design/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zjuvag.github.io/tags/transfer-function-design/</guid>
       <description></description>
     </item>
     

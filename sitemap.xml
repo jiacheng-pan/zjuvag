@@ -238,12 +238,6 @@
   </url>
   
   <url>
-    <loc>https://zjuvag.github.io/tags/geospatial-analysis/</loc>
-    <lastmod>2019-01-02T15:46:02+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://zjuvag.github.io/authors/ross-maciejewski/</loc>
     <lastmod>2019-01-02T15:46:02+08:00</lastmod>
     <priority>0</priority>
@@ -263,6 +257,12 @@
   
   <url>
     <loc>https://zjuvag.github.io/tags/choropleth/</loc>
+    <lastmod>2019-01-02T15:46:02+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/tags/geospatial-analysis/</loc>
     <lastmod>2019-01-02T15:46:02+08:00</lastmod>
     <priority>0</priority>
   </url>
@@ -477,12 +477,6 @@
   </url>
   
   <url>
-    <loc>https://zjuvag.github.io/tags/scatterplot/</loc>
-    <lastmod>2018-10-12T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://zjuvag.github.io/authors/wei-wang/</loc>
     <lastmod>2018-10-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -502,6 +496,12 @@
   
   <url>
     <loc>https://zjuvag.github.io/tags/deep-learning/</loc>
+    <lastmod>2018-10-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/tags/scatterplot/</loc>
     <lastmod>2018-10-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -708,8 +708,38 @@
   </url>
   
   <url>
+    <loc>https://zjuvag.github.io/authors/dongming-han/</loc>
+    <lastmod>2018-08-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/tags/embedding/</loc>
+    <lastmod>2018-08-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/tags/exploration/</loc>
+    <lastmod>2018-08-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/authors/fangzhou-guo/</loc>
+    <lastmod>2018-08-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://zjuvag.github.io/publication/forvizor/</loc>
     <lastmod>2018-08-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/tags/graph/</loc>
+    <lastmod>2018-08-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -731,6 +761,30 @@
   </url>
   
   <url>
+    <loc>https://zjuvag.github.io/authors/jiacheng-pan/</loc>
+    <lastmod>2018-08-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/tags/navigation/</loc>
+    <lastmod>2018-08-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/tags/network/</loc>
+    <lastmod>2018-08-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/tags/search/</loc>
+    <lastmod>2018-08-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://zjuvag.github.io/authors/shoubin-cheng/</loc>
     <lastmod>2018-08-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -743,7 +797,30 @@
   </url>
   
   <url>
+    <loc>https://zjuvag.github.io/tags/structure/</loc>
+    <lastmod>2018-08-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/publication/structure-based/</loc>
+    <lastmod>2018-08-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://zjuvag.github.io/authors/xiao-xie/</loc>
+    <lastmod>2018-08-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/authors/xiaolong-zhang/</loc>
+    <lastmod>2018-08-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/authors/xiaotao-nie/</loc>
     <lastmod>2018-08-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1102,12 +1179,6 @@
   </url>
   
   <url>
-    <loc>https://zjuvag.github.io/authors/fangzhou-guo/</loc>
-    <lastmod>2018-04-20T15:46:02+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://zjuvag.github.io/authors/feiranwu/</loc>
     <lastmod>2018-04-20T15:46:02+08:00</lastmod>
     <priority>0</priority>
@@ -1231,6 +1302,35 @@
   </url>
   
   <url>
+    <loc>https://zjuvag.github.io/authors/david-s.ebert/</loc>
+    <lastmod>2017-03-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/publication/dimscanner/</loc>
+    <lastmod>2017-03-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/authors/wanqi-hu/</loc>
+    <lastmod>2017-03-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/authors/xinxin-huang/</loc>
+    <lastmod>2017-03-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/authors/yumeng-hou/</loc>
+    <lastmod>2017-03-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://zjuvag.github.io/authors/cheryl-qian/</loc>
     <lastmod>2017-03-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -1251,12 +1351,6 @@
   <url>
     <loc>https://zjuvag.github.io/publication/visualizing-rank-time-series-of-wikipedia-top-viewed-pages/</loc>
     <lastmod>2017-03-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://zjuvag.github.io/authors/yumeng-hou/</loc>
-    <lastmod>2017-03-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -1285,7 +1379,89 @@
   
   <url>
     <loc>https://zjuvag.github.io/authors/biao-zhu/</loc>
-    <lastmod>2016-02-01T00:00:00+00:00</lastmod>
+    <lastmod>2016-09-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/tags/game/</loc>
+    <lastmod>2016-09-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/publication/gameflow/</loc>
+    <lastmod>2016-09-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/tags/trajectory/</loc>
+    <lastmod>2016-09-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/tags/video/</loc>
+    <lastmod>2016-09-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/authors/chao-ma/</loc>
+    <lastmod>2016-08-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/authors/fei-wang/</loc>
+    <lastmod>2016-08-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/tags/question/</loc>
+    <lastmod>2016-08-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/tags/semantic/</loc>
+    <lastmod>2016-08-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/publication/semantictraj/</loc>
+    <lastmod>2016-08-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/tags/taxi/</loc>
+    <lastmod>2016-08-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/tags/transportation/</loc>
+    <lastmod>2016-08-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/tags/urban/</loc>
+    <lastmod>2016-08-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/authors/xin-li/</loc>
+    <lastmod>2016-08-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/authors/yingyu-wu/</loc>
+    <lastmod>2016-08-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1465,12 +1641,6 @@
   </url>
   
   <url>
-    <loc>https://zjuvag.github.io/authors/fei-wang/</loc>
-    <lastmod>2015-03-16T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://zjuvag.github.io/tags/global-positioning-system/</loc>
     <lastmod>2015-03-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -1544,12 +1714,6 @@
   
   <url>
     <loc>https://zjuvag.github.io/tags/topology/</loc>
-    <lastmod>2015-03-16T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://zjuvag.github.io/tags/trajectory/</loc>
     <lastmod>2015-03-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1669,6 +1833,35 @@
   <url>
     <loc>https://zjuvag.github.io/tags/surface-signal-approximation/</loc>
     <lastmod>2014-11-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/tags/laplacian/</loc>
+    <lastmod>2010-09-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/authors/long-zhang/</loc>
+    <lastmod>2010-09-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/publication/real-timeshape/</loc>
+    <lastmod>2010-09-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/authors/xuexiang-xie/</loc>
+    <lastmod>2010-09-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/authors/ying-he/</loc>
+    <lastmod>2010-09-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1967,7 +2160,127 @@
   </url>
   
   <url>
+    <loc>https://zjuvag.github.io/publication/populationmobilitypatterns/</loc>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/authors/anthony-k.h.-tung/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://zjuvag.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/tags/cell-phone-data/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/publication/cluster-based/</loc>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/tags/data-abstraction/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/authors/fenjin-ye/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/tags/high-dimensional-data/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/authors/insoo-wu/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/publication/ldsscanner/</loc>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/tags/population-mobility-pattern/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/authors/siyuan-gao/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/publication/structuringfeaturespace/</loc>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/publication/mobilityandtransportation/</loc>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/tags/visual-query/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/authors/yusi-wang/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/tags/glyph-visualization/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/tags/graphical-user-interfaces/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/tags/interactive-systems/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/tags/kernel-density-estimation/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/tags/low-dimensional-structure/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/tags/manifold/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/tags/multilabel-optimization/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/tags/subspace/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/tags/temporal-volume-rendering/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/tags/transfer-function-design/</loc>
     <priority>0</priority>
   </url>
   
