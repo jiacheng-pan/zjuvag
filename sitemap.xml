@@ -67,13 +67,13 @@
   </url>
   
   <url>
-    <loc>https://zjuvag.github.io/</loc>
+    <loc>https://zjuvag.github.io/authors/yi-yang/</loc>
     <lastmod>2019-04-02T15:46:02+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://zjuvag.github.io/authors/and-yi-yang/</loc>
+    <loc>https://zjuvag.github.io/</loc>
     <lastmod>2019-04-02T15:46:02+08:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1794,6 +1794,53 @@
   </url>
   
   <url>
+    <loc>https://zjuvag.github.io/tags/ensemble-visualization/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/authors/haidong-chen/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/authors/jiawei-zhang/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/authors/song-zhang/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/publication/uncertainty/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/tags/multidimensional-data-visualization/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/tags/uncertainty-quantification/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/tags/uncertainty-visualization/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://zjuvag.github.io/publication/visual_reasoning/</loc>
     <lastmod>2015-03-16T00:00:00+00:00</lastmod>
   </url>
@@ -1890,6 +1937,47 @@
   <url>
     <loc>https://zjuvag.github.io/authors/yixian-zheng/</loc>
     <lastmod>2015-03-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/authors/kun-zhou/</loc>
+    <lastmod>2014-12-31T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/publication/visual-abstraction/</loc>
+    <lastmod>2014-12-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/authors/wentao-gu/</loc>
+    <lastmod>2014-12-31T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/authors/zhiqi-liu/</loc>
+    <lastmod>2014-12-31T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/tags/overdraw-reduction/</loc>
+    <lastmod>2014-12-31T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/tags/sampling/</loc>
+    <lastmod>2014-12-31T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/tags/visual-abstraction/</loc>
+    <lastmod>2014-12-31T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2105,12 +2193,6 @@
   </url>
   
   <url>
-    <loc>https://zjuvag.github.io/authors/song-zhang/</loc>
-    <lastmod>2009-10-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://zjuvag.github.io/authors/stephen-correia/</loc>
     <lastmod>2009-10-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -2185,6 +2267,41 @@
   <url>
     <loc>https://zjuvag.github.io/publication/vimdti/</loc>
     <lastmod>2009-06-29T17:20:04+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/tags/ewa-filter/</loc>
+    <lastmod>2004-10-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/authors/hanspter-pfister/</loc>
+    <lastmod>2004-10-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/publication/hardware/</loc>
+    <lastmod>2004-10-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/authors/matthias-zwicker/</loc>
+    <lastmod>2004-10-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/tags/hardware-acceleration/</loc>
+    <lastmod>2004-10-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/tags/volume-splatting/</loc>
+    <lastmod>2004-10-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
