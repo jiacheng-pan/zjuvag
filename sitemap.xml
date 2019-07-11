@@ -477,12 +477,6 @@
   </url>
   
   <url>
-    <loc>https://zjuvag.github.io/tags/scatterplot/</loc>
-    <lastmod>2018-10-12T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://zjuvag.github.io/authors/wei-wang/</loc>
     <lastmod>2018-10-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -502,6 +496,12 @@
   
   <url>
     <loc>https://zjuvag.github.io/tags/deep-learning/</loc>
+    <lastmod>2018-10-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuvag.github.io/tags/scatterplot/</loc>
     <lastmod>2018-10-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1106,6 +1106,12 @@
   </url>
   
   <url>
+    <loc>https://zjuvag.github.io/tags/volume-classification/</loc>
+    <lastmod>2018-06-01T08:00:00+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://zjuvag.github.io/tags/web-based/</loc>
     <lastmod>2018-06-01T08:00:00+08:00</lastmod>
     <priority>0</priority>
@@ -1197,12 +1203,6 @@
   
   <url>
     <loc>https://zjuvag.github.io/tags/unsteady-flows/</loc>
-    <lastmod>2018-06-01T08:00:00+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://zjuvag.github.io/tags/volume-classification/</loc>
     <lastmod>2018-06-01T08:00:00+08:00</lastmod>
     <priority>0</priority>
   </url>
